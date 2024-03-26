@@ -29,3 +29,9 @@ Para iOS:
 npx react-native run-ios
 ```
 
+### ✔️ Técnicas e tecnologias utilizadas
+
+- ``TypeScript``
+- ``Ruby``
+- ``JavaScript``
+
